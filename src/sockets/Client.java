@@ -3,8 +3,8 @@ import java.net.*;
 
 public class Client {
 
-  public static void main(String[] args) {
-    try{
+  public static void main(String[] args){
+    try {
       Socket s = new Socket("localhost", 4242);
 
       DataInputStream din = new DataInputStream(s.getInputStream());
