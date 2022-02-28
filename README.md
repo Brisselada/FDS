@@ -17,6 +17,8 @@ The server output should display the message it received, and the client output 
 
 #### RMI
 
+The Remote Method Invocation-based implementation can be run as follows:
+
 1. Open a command prompt.
 2. ```cd``` to the ```./src/rmi/``` directory.
 3. Compile the source code with ```javac -d dist LetterCounter.java Server.java Client.java```.
