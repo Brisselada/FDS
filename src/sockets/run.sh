@@ -1,2 +1,2 @@
-start java Server
-start java Client
+start java -classpath dist Server
+start java -classpath dist Client

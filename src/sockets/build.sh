@@ -1,2 +1,2 @@
-javac Server.java
-javac Client.java
+javac -d dist Server.java
+javac -d dist Client.java
