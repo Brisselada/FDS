@@ -1,6 +1,13 @@
-# FDS
+## Java sockets and RMI
+Fundamentals of Distributed Systems '21-'22 - Group 09
 
-### Instructions (Windows)
+University of Groningen
+
+
+### Instructions
+
+
+### Manual Compilation Instructions (Windows)
 
 #### Sockets
 The socket-based implementation can be run as follows:
